@@ -1,4 +1,5 @@
 Customer Retention and Churn Analysis Dashboard
+
 📌 Project Overview
 This project focuses on analyzing customer retention and churn behavior using **Power BI** and a structured customer dataset. The goal of this dashboard is to identify the factors influencing customer churn and provide business insights that can help improve customer retention strategies.
 
